@@ -1,0 +1,17 @@
+# Bank Loan Approval Prediction - Requirements
+# =============================================
+# Python 3.8+ recommended
+
+# Apache Spark
+pyspark>=3.4.0
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine Learning (for ROC curve)
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
